@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/React-iNote/static/js/main.d1d3121f.chunk.js",
+    "main.js.map": "/React-iNote/static/js/main.d1d3121f.chunk.js.map",
+    "runtime-main.js": "/React-iNote/static/js/runtime-main.dbabea5e.js",
+    "runtime-main.js.map": "/React-iNote/static/js/runtime-main.dbabea5e.js.map",
+    "static/js/2.bed29b7e.chunk.js": "/React-iNote/static/js/2.bed29b7e.chunk.js",
+    "static/js/2.bed29b7e.chunk.js.map": "/React-iNote/static/js/2.bed29b7e.chunk.js.map",
+    "index.html": "/React-iNote/index.html",
+    "precache-manifest.7d26ce1a1105e92c341b7c1e4b35c850.js": "/React-iNote/precache-manifest.7d26ce1a1105e92c341b7c1e4b35c850.js",
+    "service-worker.js": "/React-iNote/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbabea5e.js",
+    "static/js/2.bed29b7e.chunk.js",
+    "static/js/main.d1d3121f.chunk.js"
+  ]
+}
